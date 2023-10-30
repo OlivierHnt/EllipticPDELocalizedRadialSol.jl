@@ -1,0 +1,8 @@
+name = "EllipticPDELocalizedRadialSol"
+uuid = "27d96f95-0fc1-4636-bbdb-1c34bb5f3fdd"
+authors = ["Olivier Hénot"]
+version = "1.0.0"
+
+[deps]
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+RadiiPolynomial = "f2081a94-c849-46b6-8dc9-07bb90ed72a9"
